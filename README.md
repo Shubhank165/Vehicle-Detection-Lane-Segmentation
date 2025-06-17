@@ -19,7 +19,7 @@ Robustness through Augmentation: To prepare the model for real-world conditions,
 The final fine-tuned model achieved a peak validation Dice Score of 0.74 on the TuSimple dataset.
 Visual inference tests show that this model produces clean, confident, and accurate segmentation masks on "in-domain" images (i.e., those from a driver's perspective), successfully handling curves and occlusion by other vehicles.
 <p align="center">
-<img src="URL_TO_YOUR_GOOD_RESULT_IMAGE.jpg" alt="Successful Lane Detection" width="700"/>
+<img src="[URL_TO_YOUR_GOOD_RESULT_IMAGE.jpg](https://ibb.co/5XnYZZJd)" alt="Successful Lane Detection" width="700"/>
 <br>
 <em>Example of the fine-tuned model successfully segmenting lanes on a test image.</em>
 </p>
